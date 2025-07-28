@@ -1,1 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+spacy
+bertopic
+transformers
+nltk
+scikit-learn
+vaderSentiment
+fpdf
+plotly
 
